@@ -1,0 +1,10 @@
+﻿  proc.cpp
+E:\SteamLibrary\steamapps\common\LEGO Marvel Super Heroes\modding\MultiplayerV3\MultiplayerV3\proc.cpp(58,19): warning C4101: 'anim3ptr': unreferenced local variable
+  Generating code
+E:\SteamLibrary\steamapps\common\LEGO Marvel Super Heroes\modding\MultiplayerV3\MultiplayerV3\Client.cpp(236): warning C4715: 'c_RecvLoop': not all control paths return a value
+E:\SteamLibrary\steamapps\common\LEGO Marvel Super Heroes\modding\MultiplayerV3\MultiplayerV3\Server.cpp(254): warning C4715: 's_RecvLoop': not all control paths return a value
+  5 of 120 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MultiplayerV3.vcxproj -> E:\SteamLibrary\steamapps\common\LEGO Marvel Super Heroes\modding\MultiplayerV3\Release\MultiplayerV3.exe
